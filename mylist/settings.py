@@ -25,7 +25,7 @@ SECRET_KEY = '7(u(_eei0pa8ktndzb47qf3%qe^q=pwci$6ph3odaaj#0*3phi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','TODOLIST10.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost','todolist15.pythonanywhere.com']
 
 
 # Application definition
